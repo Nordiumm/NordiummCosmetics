@@ -3,6 +3,7 @@
     {
       "name": "Wedding Ring",
       "id": "wedding_ring",
+      "model": "minecraft:wedding_ring",
       "texture": "textures/item/wedding_ring.png"
     }
   ]
