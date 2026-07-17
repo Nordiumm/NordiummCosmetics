@@ -1,0 +1,9 @@
+{
+  "cosmetics": [
+    {
+      "name": "Wedding Ring",
+      "item": "diamond",
+      "texture": "wedding_ring"
+    }
+  ]
+}
