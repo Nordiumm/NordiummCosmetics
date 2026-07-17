@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:custom/wedding_ring"
+    "layer0": "nordiummcosmetics:item/wedding_ring"
   }
 }
