@@ -2,8 +2,8 @@
   "cosmetics": [
     {
       "name": "Wedding Ring",
-      "item": "diamond",
-      "texture": "wedding_ring"
+      "id": "wedding_ring",
+      "texture": "textures/item/wedding_ring.png"
     }
   ]
 }
